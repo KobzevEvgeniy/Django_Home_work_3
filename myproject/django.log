@@ -1,0 +1,26 @@
+[15/Apr/2024 23:52:29] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[15/Apr/2024 23:52:29] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[15/Apr/2024 23:52:32] INFO [django.server:212] "GET / HTTP/1.1" 200 10629
+[15/Apr/2024 23:52:32] INFO [django.server:212] "GET / HTTP/1.1" 200 10629
+[15/Apr/2024 23:52:41] WARNING [django.request:241] Not Found: /docs
+[15/Apr/2024 23:52:41] WARNING [django.request:241] Not Found: /docs
+[15/Apr/2024 23:52:41] WARNING [django.server:212] "GET /docs HTTP/1.1" 404 2092
+[15/Apr/2024 23:52:41] WARNING [django.server:212] "GET /docs HTTP/1.1" 404 2092
+[15/Apr/2024 23:53:24] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[15/Apr/2024 23:53:24] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[15/Apr/2024 23:53:26] INFO [django.server:212] "GET / HTTP/1.1" 200 10629
+[15/Apr/2024 23:53:26] INFO [django.server:212] "GET / HTTP/1.1" 200 10629
+[15/Apr/2024 23:53:35] WARNING [django.request:241] Not Found: /docs
+[15/Apr/2024 23:53:35] WARNING [django.request:241] Not Found: /docs
+[15/Apr/2024 23:53:35] WARNING [django.server:212] "GET /docs HTTP/1.1" 404 2092
+[15/Apr/2024 23:53:35] WARNING [django.server:212] "GET /docs HTTP/1.1" 404 2092
+[15/Apr/2024 23:55:12] INFO [django.server:212] "GET / HTTP/1.1" 200 10629
+[15/Apr/2024 23:55:12] INFO [django.server:212] "GET / HTTP/1.1" 200 10629
+[15/Apr/2024 23:55:12] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_3\myproject\myproject\urls.py changed, reloading.
+[15/Apr/2024 23:55:12] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_3\myproject\myproject\urls.py changed, reloading.
+[15/Apr/2024 23:55:13] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[15/Apr/2024 23:55:13] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[15/Apr/2024 23:56:30] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_3\myproject\myproject\settings.py changed, reloading.
+[15/Apr/2024 23:56:30] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_3\myproject\myproject\settings.py changed, reloading.
+[15/Apr/2024 23:56:31] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[15/Apr/2024 23:56:31] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
